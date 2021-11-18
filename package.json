@@ -1,0 +1,23 @@
+{
+  "name": "url-shorten-worker",
+  "version": "1.0.5",
+  "description": "A Url shortener using Cloudflare Worker",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyTom/Url-Shorten-Worker.git"
+  },
+  "keywords": [
+    "Url",
+    "Shortener"
+  ],
+  "author": "xyTom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xyTom/Url-Shorten-Worker/issues"
+  },
+  "homepage": "https://github.com/xyTom/Url-Shorten-Worker#readme"
+}
